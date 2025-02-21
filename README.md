@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug related to the rendering of content within a div element after it has been hidden and then shown using JavaScript. The bug arises due to the order of operations when setting the `display` style property and adding `innerHTML`.  The solution shows a more reliable approach to updating the div's content.
